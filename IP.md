@@ -3,7 +3,7 @@ Una dirección IP es un número de 32 bits que identifica a cada computador en u
 ## Comandos
 En linux puedes utilizar:
 
-```python
+```bash
 ifconfig
 ip a
 hostname -I
